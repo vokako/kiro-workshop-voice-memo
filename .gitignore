@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+._*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local app data, models, audio (not part of the guide)
+data/
+models/
+*.tar.bz2
+*.onnx
+*.wav
+
+# Editor / Kiro working files
+.vscode/
